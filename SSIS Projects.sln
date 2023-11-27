@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ClientAlertDisable", "SSIS Projects\ClientAlertDisable.dtproj", "{E396DA3B-6A1C-477C-8852-3921055850B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E396DA3B-6A1C-477C-8852-3921055850B5}.Azure|Default.ActiveCfg = Azure
+		{E396DA3B-6A1C-477C-8852-3921055850B5}.Azure|Default.Build.0 = Azure
+		{E396DA3B-6A1C-477C-8852-3921055850B5}.Development|Default.ActiveCfg = Development
+		{E396DA3B-6A1C-477C-8852-3921055850B5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85EEA36D-5700-4A9E-935F-42656A8AB77A}
+	EndGlobalSection
+EndGlobal
